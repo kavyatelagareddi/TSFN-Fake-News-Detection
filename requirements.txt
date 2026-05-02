@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+xgboost
+sentence-transformers
+networkx
+matplotlib
+seaborn
